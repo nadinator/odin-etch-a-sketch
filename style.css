@@ -7,3 +7,10 @@
     justify-content: center;
     align-items: center;
 }
+
+button#resetButton {
+    margin-bottom: 10px;
+    /* border: solid 1px aliceblue; ; */
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(81, 81, 190);
+}
